@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidTest1</string>
+    <string name="username_hint">Usename</string>
+    <string name="password_hint">Password</string>
+    <string name="product_name">Eg name</string>
+    <string name="product_price">price</string>
+    <string name="product_description">Product description</string>
+</resources>
